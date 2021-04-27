@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1576679236 source:f:\编程作业\论文检索.c\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1576679236 source:f:\myproject\cprograms\论文检索.c\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
